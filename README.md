@@ -6,10 +6,10 @@
 
 <img align="right" width="250" height="250" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 </h2>
-- 🌱 I’m currently learning **.Net Core, Angular**
+
 
 - 📫 How to reach me **emineegnss@gmail.com**
-
+- 🌱 I’m currently learning **.Net Core, Angular**
 <!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
 ### Find me all around the web:
