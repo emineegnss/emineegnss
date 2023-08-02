@@ -1,8 +1,10 @@
 ## 👋 Hey everyone, I'm Emine
 
 <h2 align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Coder GIF" width="500">
-</h2>
+<!-- <img src=""> this is another way you can add in images and allows you to scale them -->
+
+![mishmannersgamingroomgif](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
+
 <img align="right" width="250" height="250" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 
 - 🌱 I’m currently learning **.Net Core, Angular**
