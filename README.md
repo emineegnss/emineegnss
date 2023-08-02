@@ -1,7 +1,6 @@
 ## 👋 Hey everyone, I'm Emine
 
 <h2 align="center">
-<!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 
 ![mishmannersgamingroomgif](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 
