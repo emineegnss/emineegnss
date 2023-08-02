@@ -4,7 +4,6 @@
 <img width="500" height="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Coder GIF" width="500">
 </h2>
 <img align="right" width="250" height="250" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emineegnss&label=Profile%20views&color=e392fe&style=flat" alt="emineegnss" /> </p>
 
 - 🌱 I’m currently learning **.Net Core, Angular**
 
