@@ -5,7 +5,7 @@
 ![mishmannersgamingroomgif](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 
 <img align="right" width="250" height="250" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
-
+</h2>
 - 🌱 I’m currently learning **.Net Core, Angular**
 
 - 📫 How to reach me **emineegnss@gmail.com**
