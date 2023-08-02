@@ -5,12 +5,12 @@
 ![mishmannersgamingroomgif](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 
 <img align="right" width="250" height="250" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
-<h3>- 📫 How to reach me **emineegnss@gmail.com**</h3> 
-<h3>- 🌱 I’m currently learning **.Net Core, Angular**</h3>
+
 
 </h2>
 
-
+- 📫 How to reach me **emineegnss@gmail.com**
+- 🌱 I’m currently learning **.Net Core, Angular**
 
   
 <!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
