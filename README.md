@@ -10,9 +10,6 @@
 
 - 📫 How to reach me **emineegnss@gmail.com**
 
-
-</p>
-
 <!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
 ### Find me all around the web:
