@@ -1,7 +1,7 @@
 ## 👋 Hey everyone, I'm Emine
 
 <h2 align="center">
-<img width="880" height="600" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Coder GIF" width="500">
+<img width="700" height="600" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Coder GIF" width="500">
 </h2>
 <img align="right" width="250" height="250" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emineegnss&label=Profile%20views&color=e392fe&style=flat" alt="emineegnss" /> </p>
@@ -23,8 +23,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emineegnss&show_icons=true&locale=en&layout=compact" alt="emineegnss" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emineegnss&show_icons=true&locale=en&layout=compact" alt="emineegnss" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emineegnss&show_icons=true&title_color=000000&text_color=2f7da4&bg_color=ffa4e4&hide_border=true&locale=en" alt="emineegnss" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=emineegnss&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Emine" width="500" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emineegnss&theme=dark" alt="emineegnss" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emineegnss&theme=jolly" alt="emineegnss" width="600" />
