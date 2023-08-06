@@ -4,7 +4,7 @@
 
 ![mishmannersgamingroomgif](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 
-<img align="right" width="100" height="100" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
+<img align="right" width="200" height="200" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 
 
 </h2>
