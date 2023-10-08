@@ -1,6 +1,6 @@
 ## 👋 Hey everyone, I'm Emine
 
-<img align="center" src="https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif" width="500">
+<img align="center" src="https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif" width="600" >
 
 
 - 🌱 I’m currently learning **.Net Core, Angular**
