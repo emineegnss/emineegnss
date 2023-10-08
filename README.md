@@ -1,12 +1,13 @@
 ## 👋 Hey everyone, I'm Emine
-![mishmannersgamingroomgif](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
+
+<img align="center" src="https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif" width="700">
 
 
 - 🌱 I’m currently learning **.Net Core, Angular**
 - 🎓Graduated from Muğla Sıtkı Koçman University, Department of Information System Engineering.
 - 📫 How to reach me **emineegnss@gmail.com**
   
-<img align="right" width="200" height="200" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
+<img align="right" width="230" height="230" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 
 ### Find me all around the web:
 
